@@ -1,0 +1,15 @@
+echo "venv/
+venv_deeplearning/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.log
+checkpoint/
+logs/
+Lib/
+Scripts/
+include/
+*.h
+*.cpp
+*.cc" > .gitignore
